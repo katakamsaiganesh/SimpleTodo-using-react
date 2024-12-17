@@ -1,0 +1,16 @@
+li{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+    justify-content: space-between;
+} 
+
+button{
+    background-color: white;
+    border-color:orange;
+    color: orange; 
+    border-radius: 5px; 
+    margin-left: 50px;
+    cursor: pointer;
+}
